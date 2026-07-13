@@ -246,6 +246,6 @@ Manage Order Status:
 
 # 👩‍💻 Developed By
 
-**Baad Pranavi Pradip**
+**Jyoti Chavan**
 
 
